@@ -7,18 +7,18 @@ Passionate about building intelligent systems and contributing to the AI ecosyst
 ### 🔧 Tech Stack
 
 **Languages & Frameworks**
-- Python, TypeScript, Node.js
+- Python, PHP, TypeScript, Node.js
 - FastAPI, Docker, WSL2
 - PowerShell & Bash scripting
 
 **AI & ML Tools**
-- ComfyUI, Ollama, LangChain
+- ComfyUI, Ollama, LangChain, Google ADK
 - Local LLMs & AI model optimization
-- TTS/STT (Tagalog & multilingual)
+- TTS/STT (Tagalog & multilingual), Livekit
 - AI video generation & media workflows
 
 **Cloud & DevOps**
-- Google Cloud, Oracle Cloud
+- Google Cloud, AWS, Digital Ocean
 - Docker Desktop, containerization
 - Git, Bitbucket, GitHub
 
