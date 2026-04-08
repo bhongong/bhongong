@@ -29,9 +29,6 @@ Passionate about building intelligent systems and contributing to the AI ecosyst
 
 ### 💼 Work History & Activity Context
 
-*Note: GitHub activity gaps reflect my use of Bitbucket for enterprise projects at previous companies (Trade Window, IS Professional Services, Eflexervices, Aqqire). I focused heavily on work-related repositories from 2023 through September 2024.*
-
-**Currently available** (October 2024 onwards) and actively contributing to open-source projects while building personal AI tools and expanding my public portfolio.
 
 ### 🎯 Current Focus
 
